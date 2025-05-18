@@ -48,7 +48,7 @@ Then, open **three tabs** in your terminal and run the following in each:
 
 **🧭 Tab 1 – Localization:**
 ```bash
-ros2 launch turtlebot4_navigation localization.launch.py map:=/home/ros/my_map-yaml.yaml params:=/home/ros/Mobile-Robotics-Asessment/localization.yaml
+ros2 launch turtlebot4_navigation localization.launch.py map:=/home/ros/Mobile-Robotics-Asessment/Hatchcroft_Building.yaml params:=/home/ros/Mobile-Robotics-Asessment/localization.yaml
 ```
 
 **📍 Tab 2 – Navigation:**
