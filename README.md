@@ -48,12 +48,12 @@ Then, open **three tabs** in your terminal and run the following in each:
 
 **🧭 Tab 1 – Localization:**
 ```bash
-ros2 launch turtlebot4_navigation localization.launch.py map:=/home/ros/my_map-yaml.yaml params:=/home/ros/nav/localization.yaml
+ros2 launch turtlebot4_navigation localization.launch.py map:=/home/ros/my_map-yaml.yaml params:=/home/ros/Mobile-Robotics-Asessment/localization.yaml
 ```
 
 **📍 Tab 2 – Navigation:**
 ```bash
-ros2 launch turtlebot4_navigation nav2.launch.py params_file:=/home/ros/nav/nav2.yaml
+ros2 launch turtlebot4_navigation nav2.launch.py params_file:=/home/ros/Mobile-Robotics-Asessment/nav2.yaml
 ```
 
 **🖥️ Tab 3 – RViz Visualization:**
