@@ -4,8 +4,8 @@ Main Assessment Files; Videos, Maps, parameters and Code
 
 # 🤖 Mobile Robotics Assessment – TurtleBot4 Navigation Suite
 
-📹 **[Video Submission](Link)**  
-📱 **[React Native App GitHub Repo](Link to my Git hub React Native App for the turtle bot)**
+📹 **[Video Submission](https://www.play.mdx.ac.uk/media/Mobile+Robotics+Assessment+Video/1_k0p1y8lm)**  
+📱 **[React Native App GitHub Repo](https://github.com/Shuaibu-oluwatunmise/TurtleBot4App)**
 
 ---
 
